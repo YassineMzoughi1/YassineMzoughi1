@@ -8,7 +8,7 @@
 
 <br>
 
-I build products end to end: **native iOS apps in Swift**, **cross-platform apps in Flutter**, and **full-stack web apps in TypeScript**. I care about clean architecture, fast interfaces and shipping things people actually use.
+I turn ideas into products — from the first sketch to something people use every day.
 
 ```swift
 let now = [
