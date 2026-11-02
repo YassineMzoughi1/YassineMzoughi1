@@ -33,7 +33,7 @@ let now = [
 <table>
   <tr>
     <td><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=swift,flutter,dart,androidstudio&theme=dark" height="40" alt="Swift, Flutter, Dart, Android Studio"></td>
+    <td><img src="https://skillicons.dev/icons?i=swift,flutter,dart&theme=dark" height="40" alt="Swift, Flutter, Dart"></td>
   </tr>
   <tr>
     <td><b>Web</b></td>
