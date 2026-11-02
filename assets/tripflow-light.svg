@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <radialGradient id="g" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#7C5CFF" stop-opacity="0.18"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="440" height="200" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="440" height="200" fill="#F6F8FA"/>
+    <rect width="440" height="200" fill="url(#g)"/>
+    <rect width="4" height="200" fill="url(#acc)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="199" rx="14" fill="none" stroke="#D0D7DE"/>
+  <text x="28" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="1" fill="#0E7490">TRAVEL COMPANION</text>
+  <text x="28" y="74" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#1F2328">TripFlow</text>
+  <text x="412" y="74" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#57606A">↗</text>
+  <text x="28" y="100" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">Plan trips, book stays and get</text><text x="28" y="122" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#57606A">recommendations, translation &amp; AR guides.</text>
+  <rect x="28" y="150" width="100" height="26" rx="13" fill="#EEF1F5" stroke="#D0D7DE"/><circle cx="41" cy="163" r="4" fill="#3178C6"/><text x="50" y="167.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1F2328">TypeScript</text>
+</svg>
