@@ -12,9 +12,9 @@ I turn ideas into products — from the first sketch to something people use eve
 
 ```swift
 let now = [
-    "Building the ODC Learning platform — web, backend and iOS",
-    "Shipping native iOS apps in Swift",
-    "Bringing AI features into mobile products",
+    "Building products from idea to launch",
+    "Designing clean, fast interfaces",
+    "Learning something new every week",
 ]
 ```
 
